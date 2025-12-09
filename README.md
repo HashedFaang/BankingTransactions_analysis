@@ -107,12 +107,6 @@ Visualizes:
 - Customer insights  
 
 ---
-
-## 📊 Dashboard Preview
-(Add your screenshot here)
-
-![Banking Dashboard](results/banking_dashboard.png)
-
 ---
 
 ## 🚀 How to Run
