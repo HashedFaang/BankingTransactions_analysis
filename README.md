@@ -14,15 +14,16 @@ This project analyzes banking transaction data to understand customer spending p
 ---
 
 ## 📂 Project Structure
-## banking_project/
+## 📂 Project Structure
+```
+banking_project/
 │
 ├── banking_transactions.csv      # Dataset
 ├── banking_analysis.py           # Python script
 ├── bank_suspicious.csv           # Output (flagged results)
 ├── example_queries.sql           # SQL queries
 └── README.md                     # Documentation
----
-
+```
 ## 🛠 Tech Stack
 - **Python & Pandas**
 - **SQL**
