@@ -14,7 +14,7 @@ This project analyzes banking transaction data to understand customer spending p
 ---
 
 ## 📂 Project Structure
-banking_project/
+## banking_project/
 │
 ├── banking_transactions.csv      # Dataset
 ├── banking_analysis.py           # Python script
@@ -60,11 +60,6 @@ Visualizes:
 - Customer insights  
 
 ---
-
-## 📊 Dashboard Preview
-(Add your screenshot here)
-
-![Banking Dashboard](results/banking_dashboard.png)
 
 ---
 
